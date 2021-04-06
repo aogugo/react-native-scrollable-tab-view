@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfc9f4d0-c51f-4b45-8f37-bd5ab903f3d6" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Button.android.js" beforeDir="false" afterPath="$PROJECT_DIR$/Button.android.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
       <updated>1617653321374</updated>
       <workItem from="1617653323499" duration="1506000" />
       <workItem from="1617729854694" duration="1412000" />
-      <workItem from="1617731453019" duration="659000" />
+      <workItem from="1617731453019" duration="814000" />
     </task>
     <servers />
   </component>
