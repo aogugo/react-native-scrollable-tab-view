@@ -1,9 +1,6 @@
 import React from 'react';
 import { TouchableNativeFeedback, View} from 'react-native';
-const {
-  TouchableNativeFeedback,
-  View,
-} = ReactNative;
+
 
 const Button = (props) => {
   return <TouchableNativeFeedback
