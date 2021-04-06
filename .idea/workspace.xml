@@ -2,6 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfc9f4d0-c51f-4b45-8f37-bd5ab903f3d6" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/react-native" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/.flowconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/android/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/android/src/main/java/com/reactnativecommunity/viewpager/BUCK" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/android/src/main/java/com/reactnativecommunity/viewpager/PageScrollEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/android/src/main/java/com/reactnativecommunity/viewpager/PageScrollStateChangedEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/android/src/main/java/com/reactnativecommunity/viewpager/PageSelectedEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/android/src/main/java/com/reactnativecommunity/viewpager/RNCViewPagerPackage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/android/src/main/java/com/reactnativecommunity/viewpager/ReactViewPager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/android/src/main/java/com/reactnativecommunity/viewpager/ReactViewPagerManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/ios/RCTConvert+UIPageViewControllerNavigationOrientation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/ios/RCTConvert+UIPageViewControllerNavigationOrientation.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/ios/RCTConvert+UIPageViewControllerTransitionStyle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/ios/RCTConvert+UIPageViewControllerTransitionStyle.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/ios/RNCViewpager.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/ios/RNCViewpager.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/ios/RNCViewpager.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/ios/RNCViewpager.xcodeproj/project.xcworkspace/xcuserdata/ferrannp.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/ios/RNCViewpager.xcodeproj/xcuserdata/ferrannp.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/ios/ReactNativePageView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/ios/ReactNativePageView.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/ios/ReactViewPagerManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/ios/ReactViewPagerManager.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/js/ViewPager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/js/ViewPagerNativeComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/js/types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/js/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/node_modules/.bin/react-native" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/react-native-viewpager.podspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@react-native-community/viewpager/typings/index.d.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +85,7 @@
       <updated>1617653321374</updated>
       <workItem from="1617653323499" duration="1506000" />
       <workItem from="1617729854694" duration="1412000" />
-      <workItem from="1617731453019" duration="814000" />
+      <workItem from="1617731453019" duration="1414000" />
     </task>
     <servers />
   </component>
